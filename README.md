@@ -616,7 +616,7 @@ Este módulo facilita la entrega de evidencias y permite presentar los resultado
 
 ---
 
-# KPIs principales de la aplicación
+# KPIS principales de la aplicación
 
 ## KPI 1: Valor del inventario
 
